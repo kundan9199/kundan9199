@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kundan Kumar Sharma, an ambitious B.Tech student with a specialisation  in Full Stack Development. <br>I possess robust proficiency in C++, Java, Python, and a wide array of cutting-edge web technologies. <br>With a portfolio of diverse, functional projects, I’m driven by a deep enthusiasm for crafting optimized, user-centric digital solutions. <br>I’m committed to continuous growth and always open to impactful collaborations and innovative challenges.
+Hi, I’m Kundan Kumar Sharma, an ambitious B.Tech student with a specialisation in Full Stack Development. <br>I possess robust proficiency in C++, Java, Python, and a wide array of cutting-edge modern web technologies. <br>With a portfolio of diverse, functional projects, I’m driven by a deep enthusiasm for crafting optimized, user-centric digital solutions. <br>I’m committed to continuous growth and always open to impactful collaborations and innovative challenges.
 
 
 ## 🌐 Socials:
