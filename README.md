@@ -10,17 +10,14 @@ background: linear-gradient(90deg,#38bdf8,#6366f1);
 -webkit-background-clip:text; color:transparent;">
 About Me
 </h2>
-
 <p>
 Hii, <b style="color:#38bdf8;">Kundan here 👋</b> — a 
 <b style="color:#818cf8;">Full Stack Developer 💻</b> focused on turning ideas into 
 <b>scalable, user-friendly solutions</b>.
 </p>
-
 <p>
 Strong emphasis on <b style="color:#22c55e;">clean, efficient code ✨</b> while continuously improving skills to keep pace with rapidly evolving technology 📈.
 </p>
-
 <p>
 Hands-on experience with 
 <b style="color:#61dafb;">React.js ⚛️</b>, 
@@ -30,7 +27,6 @@ Hands-on experience with
 <b style="color:#10b981;">Express.js ⚙️</b>, and 
 <b style="color:#84cc16;">MongoDB 🗄️</b> for backend systems that actually hold up under pressure.
 </p>
-
 <p>
 Proficient in 
 <b style="color:#a78bfa;">C++ 💡</b>, 
@@ -38,7 +34,6 @@ Proficient in
 <b style="color:#f97316;">Java ☕</b>, and 
 <b style="color:#4ade80;">Python 🐍</b> — because relying on just one language would be a bit too convenient.
 </p>
-
 <p>
 Enjoys building 
 <b style="color:#38bdf8;">scalable</b> and 
