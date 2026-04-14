@@ -8,7 +8,7 @@ line-height: 1.8;">
 <h2 align="center" style="font-weight:700; letter-spacing:1px;
 background: linear-gradient(90deg,#38bdf8,#6366f1);
 -webkit-background-clip:text; color:transparent;">
-💫 About Me
+About Me
 </h2>
 
 <p>
