@@ -65,7 +65,7 @@ Full Stack Developer • Problem Solver • Engineering Student
 
 ### ☁️ Deployment & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,git,github,postman,figma" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,postman,figma" />
 </p>
 
 ### 💡 Languages
