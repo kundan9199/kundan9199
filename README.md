@@ -75,17 +75,6 @@ Full Stack Developer • Problem Solver • Engineering Student
 
 ---
 
-# 🚀 Featured Projects
-
-### 🗑️ Waste Management Portal
-Smart garbage collection and complaint management platform with admin and user roles.
-
-### 🤖 AI Smart Mirror Assistant
-AI-powered smart mirror integrating weather, news, OpenCV camera feed, and voice features.
-
-### 🌐 Developer Portfolio
-Modern responsive portfolio built using Next.js, Tailwind CSS, and Framer Motion.
-
 ---
 
 # 📊 GitHub Analytics
@@ -102,14 +91,6 @@ Modern responsive portfolio built using Next.js, Tailwind CSS, and Framer Motion
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kundan9199&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -122,20 +103,6 @@ Modern responsive portfolio built using Next.js, Tailwind CSS, and Framer Motion
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kundan9199/kundan9199/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kundan9199&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
